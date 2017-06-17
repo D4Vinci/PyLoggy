@@ -3,7 +3,7 @@ PyLoggy is simple and powerful Python keylogger that is able to log keystrokes, 
 
 ### Installation
 1. Clone it:
-`git clone https://github.com/Squnity/PyLoggy.git `
+`git clone https://github.com/D4Vinci/PyLoggy.git `
 
 2. Run it:
 `python PyLoggy.py`
@@ -11,6 +11,6 @@ PyLoggy is simple and powerful Python keylogger that is able to log keystrokes, 
 
 *You can also convert PyLoggy to EXE using PyInstaller or any similar tool.*
 
-### Author
 
-* [Karim Shoair](https://github.com/D4Vinci) From [Squnity](http://squnity.com)
+
+
